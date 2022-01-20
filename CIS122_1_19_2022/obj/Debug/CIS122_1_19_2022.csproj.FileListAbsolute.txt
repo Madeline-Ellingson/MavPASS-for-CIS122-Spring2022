@@ -1,0 +1,7 @@
+C:\Users\beard\source\repos\CIS122_1_19_2022\bin\Debug\CIS122_1_19_2022.exe.config
+C:\Users\beard\source\repos\CIS122_1_19_2022\bin\Debug\CIS122_1_19_2022.exe
+C:\Users\beard\source\repos\CIS122_1_19_2022\bin\Debug\CIS122_1_19_2022.pdb
+C:\Users\beard\source\repos\CIS122_1_19_2022\obj\Debug\CIS122_1_19_2022.csproj.AssemblyReference.cache
+C:\Users\beard\source\repos\CIS122_1_19_2022\obj\Debug\CIS122_1_19_2022.csproj.CoreCompileInputs.cache
+C:\Users\beard\source\repos\CIS122_1_19_2022\obj\Debug\CIS122_1_19_2022.exe
+C:\Users\beard\source\repos\CIS122_1_19_2022\obj\Debug\CIS122_1_19_2022.pdb

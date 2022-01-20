@@ -1,0 +1,7 @@
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\obj\Debug\MavPASS_1-19_FirstQuiz.csproj.AssemblyReference.cache
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\obj\Debug\MavPASS_1-19_FirstQuiz.csproj.CoreCompileInputs.cache
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\bin\Debug\MavPASS_1-19_FirstQuiz.exe.config
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\bin\Debug\MavPASS_1-19_FirstQuiz.exe
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\bin\Debug\MavPASS_1-19_FirstQuiz.pdb
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\obj\Debug\MavPASS_1-19_FirstQuiz.exe
+C:\Users\beard\source\repos\MavPASS_1-19_FirstQuiz\obj\Debug\MavPASS_1-19_FirstQuiz.pdb
