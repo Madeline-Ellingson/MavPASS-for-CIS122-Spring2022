@@ -32,7 +32,7 @@ Visual Studio repos folder.
 
 This has all of the code we did in class but modified it to have a ToString() Method
 
-Creating the method is in the Student.cs file from lines 181-198
+Creating the method is in the Student.cs file from lines 168-184
 
 Implementing the method is in the Program.cs file from lines 44-61
 
