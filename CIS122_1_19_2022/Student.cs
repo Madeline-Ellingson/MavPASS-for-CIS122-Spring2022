@@ -31,9 +31,6 @@ namespace CIS122_1_19_2022
 		// or you could just have them input their primary email
 		private List<string> emails = new List<string>();
 
-		private List<Student> aListOfStudents = new List<Student>();
-
-
 		// *** Gets & Sets ***
 		// also knows as accessor methods
 		public int StudentID
@@ -160,19 +157,6 @@ namespace CIS122_1_19_2022
 			set
 			{
 				this.emails = value;
-			}
-		}
-
-		public List<Student> AListOfStudents
-		{
-			get
-			{
-				return this.aListOfStudents;
-			}
-
-			set
-			{
-				this.aListOfStudents = value;
 			}
 		}
 
