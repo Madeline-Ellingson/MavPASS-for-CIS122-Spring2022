@@ -1,5 +1,7 @@
 1/19/2022 MavPASS Session for CIS122
 
+BOTH the C# solution folder and python file are provided 
+
 In this session we went over the first quiz as well as the ToString() Method
 
 *** First Quiz ***
